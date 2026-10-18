@@ -5,7 +5,7 @@ A physical button on an Arduino Mega 2560 controls an object in Unity. Pressing 
 This is a small proof of concept for getting real-world hardware input into a Unity scene, a starting point for XR and physical-computing prototypes.
 
 <p align="center">
-  <img src="docs/demo.gif" alt="Demo: button press toggles the sphere between red and white" width="600" />
+  <img src="demo/demo.gif" alt="Demo: button press toggles the sphere between red and white" width="600" />
 </p>
 
 ## Hardware photos
