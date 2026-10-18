@@ -6,6 +6,19 @@ This is a small proof of concept for getting real-world hardware input into a Un
 
 
 
+## Hardware photos
+ 
+<p align="center">
+  <img width="200" height="200" alt="Hardware setup: Arduino Mega 2560, breadboard, button, and LED" src="https://github.com/user-attachments/assets/ff28167e-c78e-4f67-bf9a-5888e6234d7d" />
+</p>
+<p align="center">
+  <img width="200" height="200" alt="Second view of the breadboard wiring" src="https://github.com/user-attachments/assets/466e998c-85a4-41fb-83a7-886c5caf0b06" />
+</p>
+
+
+
+
+
 
 ## How it works
 
